@@ -1,0 +1,2424 @@
+fileFormatVersion: 2
+guid: b0dc863aad586494fbb273a87b5167bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4048206350173722773
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_0
+  - first:
+      213: 7857281626135024689
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_1
+  - first:
+      213: 4543438956827929065
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_2
+  - first:
+      213: -81707441782858466
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_3
+  - first:
+      213: -4151305893842822758
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_4
+  - first:
+      213: 2029949811479651733
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_5
+  - first:
+      213: -2426209922526053162
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_6
+  - first:
+      213: -7517605335515487008
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_7
+  - first:
+      213: 8541286806367726876
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_8
+  - first:
+      213: -5282664136328736008
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_9
+  - first:
+      213: 8971746544216243984
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_10
+  - first:
+      213: -4924358824179922696
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_11
+  - first:
+      213: 3014637258915642699
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_12
+  - first:
+      213: -2699937260899718085
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_13
+  - first:
+      213: 1757838747091716219
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_14
+  - first:
+      213: -5494174890379182897
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_15
+  - first:
+      213: -6109382960706525102
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_16
+  - first:
+      213: 1880053288936538710
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_17
+  - first:
+      213: 1774456061377484506
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_18
+  - first:
+      213: 7624017415878528903
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_19
+  - first:
+      213: 1528466808066909549
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_20
+  - first:
+      213: 1938332802423864859
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_21
+  - first:
+      213: -9045908954324523864
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_22
+  - first:
+      213: -3008821967836557348
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_23
+  - first:
+      213: -8900485362925249921
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_24
+  - first:
+      213: -1223985720504290479
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_25
+  - first:
+      213: 7548135081415100653
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_26
+  - first:
+      213: -1101204508284990329
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_27
+  - first:
+      213: 8569337128142556509
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_28
+  - first:
+      213: -6194920000782862576
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_29
+  - first:
+      213: 1155736147602201422
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_30
+  - first:
+      213: 634659464935468831
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_31
+  - first:
+      213: -2211723367027887059
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_32
+  - first:
+      213: 8742146894194261331
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_33
+  - first:
+      213: -4196060695062667319
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_34
+  - first:
+      213: 6224898691803733750
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_35
+  - first:
+      213: -6518842362270561097
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_36
+  - first:
+      213: -797220950966848703
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_37
+  - first:
+      213: -6856251685891410536
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_38
+  - first:
+      213: -6757950135684826812
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_39
+  - first:
+      213: -116039607049799765
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_40
+  - first:
+      213: 4404456848439136881
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_41
+  - first:
+      213: -4170696377431919915
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_42
+  - first:
+      213: -5250561013311907328
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_43
+  - first:
+      213: 4023257584620617975
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_44
+  - first:
+      213: 170511258966122975
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_45
+  - first:
+      213: -6196140401765844105
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_46
+  - first:
+      213: -1899712045792891399
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_47
+  - first:
+      213: 2577536953192766330
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_48
+  - first:
+      213: -1514054203308133436
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_49
+  - first:
+      213: -4660747728955178541
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_50
+  - first:
+      213: -7583632026327378006
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_51
+  - first:
+      213: 1480827985344632198
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_52
+  - first:
+      213: -7640803959244441111
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_53
+  - first:
+      213: -1988819474948706196
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_54
+  - first:
+      213: -4002746002004352755
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_55
+  - first:
+      213: 8687476723088545304
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_56
+  - first:
+      213: 4288321690230335343
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_57
+  - first:
+      213: -3214196638912826924
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_58
+  - first:
+      213: -7747472550140704441
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_59
+  - first:
+      213: 7356219770296958100
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_60
+  - first:
+      213: 7313379127367680159
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_61
+  - first:
+      213: 7157962010641863803
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_62
+  - first:
+      213: 8173144731302613043
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_63
+  - first:
+      213: 5449988872079404780
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_64
+  - first:
+      213: 2776410135473991797
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_65
+  - first:
+      213: -1893656405569319442
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_66
+  - first:
+      213: -9002908654001221096
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_67
+  - first:
+      213: 8385028386887255691
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_68
+  - first:
+      213: 6944721032105747053
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_69
+  - first:
+      213: -3138753653923858237
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_70
+  - first:
+      213: -5583749468398828397
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_71
+  - first:
+      213: 7938792815573043626
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_72
+  - first:
+      213: -8322078427422059642
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_73
+  - first:
+      213: -7537650268134934810
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_74
+  - first:
+      213: 8443503856490550149
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_75
+  - first:
+      213: 4216448313111086992
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_76
+  - first:
+      213: 2176441171308630842
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_77
+  - first:
+      213: -6105803051543697311
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_78
+  - first:
+      213: 8461188804037710739
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_79
+  - first:
+      213: -3800616124856133525
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_80
+  - first:
+      213: -8490183000225640895
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_81
+  - first:
+      213: 1095626389054356162
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_82
+  - first:
+      213: -2595899812767438602
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_83
+  - first:
+      213: -968338543482306929
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_84
+  - first:
+      213: -2667813143471142228
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_85
+  - first:
+      213: 6222057510594985518
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_86
+  - first:
+      213: -6575700054953461628
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_87
+  - first:
+      213: -6541769753872827288
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_88
+  - first:
+      213: -934391876119171948
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_89
+  - first:
+      213: -4709987288687691043
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_90
+  - first:
+      213: 7252088221908238009
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_91
+  - first:
+      213: -6517018856343713478
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_92
+  - first:
+      213: -510522395042632873
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_93
+  - first:
+      213: 8558153834290825017
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_94
+  - first:
+      213: 1354620574092020030
+    second: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 305
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598d5972a3e1e2830800000000000000
+      internalID: 4048206350173722773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 303
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345bf1620caa0d60800000000000000
+      internalID: 7857281626135024689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 305
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e96668b8a98d0f30800000000000000
+      internalID: 4543438956827929065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 305
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd60db387bddef0800000000000000
+      internalID: -81707441782858466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 304
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99538bb8499366c0800000000000000
+      internalID: -4151305893842822758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 305
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595ad113994db2c10800000000000000
+      internalID: 2029949811479651733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 305
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc7e491eee545ed0800000000000000
+      internalID: -2426209922526053162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 303
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4a40ff6c91ca790800000000000000
+      internalID: -7517605335515487008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 305
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d6742c81fb88670800000000000000
+      internalID: 8541286806367726876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 305
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f21e6ee4f430b6b0800000000000000
+      internalID: -5282664136328736008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff8d692fb028c70800000000000000
+      internalID: 8971746544216243984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 305
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f802326db929abb0800000000000000
+      internalID: -4924358824179922696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 264
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4df2506d9426d920800000000000000
+      internalID: 3014637258915642699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 263
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c2b38bd55e78ad0800000000000000
+      internalID: -2699937260899718085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 264
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c1dce609156810800000000000000
+      internalID: 1757838747091716219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 264
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf31deb05c0c3b0800000000000000
+      internalID: -5494174890379182897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 263
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258634ee09c173ba0800000000000000
+      internalID: -6109382960706525102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 264
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6520edd518a471a10800000000000000
+      internalID: 1880053288936538710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 264
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad691f7e26220a810800000000000000
+      internalID: 1774456061377484506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 263
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc4da2273fdc960800000000000000
+      internalID: 7624017415878528903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 264
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65adc9b674363510800000000000000
+      internalID: 1528466808066909549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 264
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e36f00a6756ea10800000000000000
+      internalID: 1938332802423864859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 263
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a426fabbb9767280800000000000000
+      internalID: -9045908954324523864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 264
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc5b69c548e36d0800000000000000
+      internalID: -3008821967836557348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 225
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad64e18bf1b7480800000000000000
+      internalID: -8900485362925249921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 225
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f03fd877830fe0800000000000000
+      internalID: -1223985720504290479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 225
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de849646ddc50c860800000000000000
+      internalID: 7548135081415100653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 225
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c4d9a855cb7b0f0800000000000000
+      internalID: -1101204508284990329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 225
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc08b37b66ce670800000000000000
+      internalID: 8569337128142556509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 225
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017ff55d419370aa0800000000000000
+      internalID: -6194920000782862576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 225
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b58e327eff90010800000000000000
+      internalID: 1155736147602201422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 225
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f61d8bb63cec800800000000000000
+      internalID: 634659464935468831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 225
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d243fded0516e41e0800000000000000
+      internalID: -2211723367027887059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 225
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dbbba4848525970800000000000000
+      internalID: 8742146894194261331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 225
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf9fce870994c5c0800000000000000
+      internalID: -4196060695062667319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 225
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe51c71168436650800000000000000
+      internalID: 6224898691803733750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc481ae86b6885a0800000000000000
+      internalID: -6518842362270561097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 187
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433f1ad4c3bfe4f0800000000000000
+      internalID: -797220950966848703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 184
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895f4cbea63b9d0a0800000000000000
+      internalID: -6856251685891410536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 185
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449f3b02820f632a0800000000000000
+      internalID: -6757950135684826812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 188
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7bbe9979eb36ef0800000000000000
+      internalID: -116039607049799765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 185
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17250c7fa26cf1d30800000000000000
+      internalID: 4404456848439136881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 185
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d27925fdb5be16c0800000000000000
+      internalID: -4170696377431919915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 188
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a570ab3924227b0800000000000000
+      internalID: -5250561013311907328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 185
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f04533057b75d730800000000000000
+      internalID: 4023257584620617975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 185
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd161ec2617cd5200800000000000000
+      internalID: 170511258966122975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 188
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bfc461223e20aa0800000000000000
+      internalID: -6196140401765844105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 185
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdebfe95fdd2a5e0800000000000000
+      internalID: -1899712045792891399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 148
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b5f7ad33045c320800000000000000
+      internalID: 2577536953192766330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b12159bffcfae0800000000000000
+      internalID: -1514054203308133436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d10beb52a2b15fb0800000000000000
+      internalID: -4660747728955178541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 149
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa71b731ad681c690800000000000000
+      internalID: -7583632026327378006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 149
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6859ce7f435fc8410800000000000000
+      internalID: 1480827985344632198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 149
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e936d2284966f590800000000000000
+      internalID: -7640803959244441111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 149
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60bd49893b4664e0800000000000000
+      internalID: -1988819474948706196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 149
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d016a68f7b36378c0800000000000000
+      internalID: -4002746002004352755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 149
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816da2a2d0e109870800000000000000
+      internalID: 8687476723088545304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 149
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6728c45bdd238b30800000000000000
+      internalID: 4288321690230335343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 149
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b85bbf21e463d0800000000000000
+      internalID: -3214196638912826924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 149
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74906c573c27b7490800000000000000
+      internalID: -7747472550140704441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 107
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c714af7ea861660800000000000000
+      internalID: 7356219770296958100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 107
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90c18281975e7560800000000000000
+      internalID: 7313379127367680159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 107
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b749c003680365360800000000000000
+      internalID: 7157962010641863803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 108
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d52774d7dc6170800000000000000
+      internalID: 8173144731302613043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeef1ef00042ab40800000000000000
+      internalID: 5449988872079404780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 108
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b8b3ee4ac78620800000000000000
+      internalID: 2776410135473991797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 108
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedc56b388168b5e0800000000000000
+      internalID: -1893656405569319442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 108
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81297f4574e3f0380800000000000000
+      internalID: -9002908654001221096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 108
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b864bff54ea9d5470800000000000000
+      internalID: 8385028386887255691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 108
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62e8d6ebfa906060800000000000000
+      internalID: 6944721032105747053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 108
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b86c7e28e074d0800000000000000
+      internalID: -3138753653923858237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 108
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394cf4541798282b0800000000000000
+      internalID: -5583749468398828397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 69
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa987a511024c2e60800000000000000
+      internalID: 7938792815573043626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 69
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683119433c9028c80800000000000000
+      internalID: -8322078427422059642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 69
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e670be6403e46790800000000000000
+      internalID: -7537650268134934810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 69
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58392c9950a5d2570800000000000000
+      internalID: 8443503856490550149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 69
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09708cca665d38a30800000000000000
+      internalID: 4216448313111086992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 69
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d26ac6b5443e10800000000000000
+      internalID: 2176441171308630842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 69
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168ed3c7974d34ba0800000000000000
+      internalID: -6105803051543697311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 69
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3931e22536e2c6570800000000000000
+      internalID: 8461188804037710739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 69
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68145e55cf714bc0800000000000000
+      internalID: -3800616124856133525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 69
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e8d715b8fcc2a80800000000000000
+      internalID: -8490183000225640895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 69
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf02e5562743f00800000000000000
+      internalID: 1095626389054356162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 69
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f86e7bbfd289fbd0800000000000000
+      internalID: -2595899812767438602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8efa65a935cf82f0800000000000000
+      internalID: -968338543482306929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 32
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caac848a4160afad0800000000000000
+      internalID: -2667813143471142228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 32
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eb01b0750395650800000000000000
+      internalID: 6222057510594985518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 33
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4887bfab3ab6eb4a0800000000000000
+      internalID: -6575700054953461628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 33
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cf3029117f635a0800000000000000
+      internalID: -6541769753872827288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 33
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ce7ee0a8f5803f0800000000000000
+      internalID: -934391876119171948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 33
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3a29f383c2aeb0800000000000000
+      internalID: -4709987288687691043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 33
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be72aa80d794a460800000000000000
+      internalID: 7252088221908238009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 33
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394c19f0e5ee85a0800000000000000
+      internalID: -6517018856343713478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 33
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b2a9926924ae8f0800000000000000
+      internalID: -510522395042632873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 33
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9374d0ab19ba4c670800000000000000
+      internalID: 8558153834290825017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 423-4239759_frogger-arcade-graphic-rpg-maker-frog-sprite-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 33
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c03c2c349cc210800000000000000
+      internalID: 1354620574092020030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
